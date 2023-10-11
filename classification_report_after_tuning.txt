@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+    covering       0.90      0.64      0.75        14
+     glasses       0.84      0.90      0.87       111
+       plain       0.92      0.86      0.89        96
+  sunglasses       0.93      0.95      0.94        96
+
+    accuracy                           0.89       317
+   macro avg       0.90      0.84      0.86       317
+weighted avg       0.89      0.89      0.89       317

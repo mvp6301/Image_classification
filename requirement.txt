@@ -1,0 +1,8 @@
+opencv-python==4.5.1
+numpy==1.19.5
+scikit-learn==0.24.2
+imutils==0.5.4
+tensorflow==2.5.0
+keras-tuner==1.0.3
+onnx==1.8.1
+tf2onnx==1.10.0
